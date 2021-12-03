@@ -8,3 +8,6 @@ keras
 scipy
 jupyter
 spacy
+openai
+transformers
+gpt3-sandbox
