@@ -10,6 +10,5 @@ jupyter
 spacy
 openai
 transformers
-gpt3-sandbox
 beautifulsoup4
 lxml
